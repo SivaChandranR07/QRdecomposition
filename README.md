@@ -22,6 +22,8 @@ To implement QR decomposition algorithm using the Gram-Schmidt method.
 
 
 ## Program:
+
+
 ### Gram-Schmidt Method
 
 ```python
@@ -47,8 +49,6 @@ for i in range(n):
 print(e)
 print(r)
 ```
-
-
 ## Output
 
 ![output](./qrout.png)
